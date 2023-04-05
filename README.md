@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=ViniciusCanedo&icon=2&color=11)](https://visitcount.itsvg.in)
+
 # 💻 Skills:
 
 ### ✒️ Design
