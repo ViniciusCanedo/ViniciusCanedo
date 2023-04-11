@@ -15,6 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=ViniciusCanedo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCanedo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 
-  ![Snake animation](https://github.com/ViniciusCanedo/ViniciusCanedo/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
