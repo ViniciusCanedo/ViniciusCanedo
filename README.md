@@ -18,7 +18,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  ![Snake animation](https://github.com/ViniciusCanedo/ViniciusCanedo/blob/output/github-contribution-grid-snake2.svg)
+  ![Snake animation](https://github.com/ViniciusCanedo/ViniciusCanedo/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
