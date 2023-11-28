@@ -12,8 +12,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 #
 
-![](https://github-readme-stats.vercel.app/api?username=ViniciusCanedo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCanedo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <div>
   <a href="https://github.com/LFeli">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCanedo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
