@@ -2,32 +2,19 @@
 <br><br>
 <p align="center"><img width="50%" alt="Hello! I'm Vinícius. Web Developer." src="./assets/svg/programmer3.svg" /></p>
 
-<div align="center" style="margin-top:5px;"><img src="https://visitcount.itsvg.in/api?id=ViniciusCanedo&icon=2&color=11"></img></div>
+<div align="center"><img src="https://visitcount.itsvg.in/api?id=ViniciusCanedo&icon=2&color=11"></img></div>
 
-<hr style="margin-block: 48px">
+<br><br><br>
 
 <h1 align="center">Skills</h1>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-    <div style="display:flex; align-items: center; gap: 10px; justify-content:center;">
-      <img src="./assets/images/web-design.png" width="48px"></img>
-      <h2>Front-end</h2>
-    </div>
-    <div style="display:flex; align-items: center; gap: 10px;justify-content:center;">
-      <img src="./assets/images/back-end.png" width="48px"></img>
-      <h2>Back-end</h2>
-    </div>
+<div align="center">
+    <img src="./assets/images/web-design.png" align="center" width="48px">
+    <h3 vertical-align="center">Front-end</h3>
+    <p align="center">__________</p>
 </div>
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-    <div style="display:flex; align-items: center; gap: 10px;justify-content:center;">
-      <img src="./assets/images/docker.png" width="48px"></img>
-      <h2>DevOps</h2>
-    </div>
-    <div style="display:flex; align-items: center; gap: 10px;justify-content:center;">
-      <img src="./assets/images/software.png" width="48px"></img>
-      <h2>Softwares</h2>
-    </div>
-</div>
+
+
 
 
 <div style="display: flex; justify-content:center;">
