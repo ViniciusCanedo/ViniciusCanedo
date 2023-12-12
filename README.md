@@ -93,3 +93,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusCanedo/ViniciusCanedo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusCanedo/ViniciusCanedo/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <img src="./assets/svg/camping-tent.svg" width="75%">
+</div>
