@@ -1,9 +1,4 @@
-<h1 align=center>Vinícius Canedo - Web Developer</h1>
-
-<div align="center" >
-  <h1>Skills</h1>
-</div>
-<br>
+<h1 align=center >Vinícius Canedo - Web Developer</h1>
 
 <div align="center">
     < <img src="./assets/images/front-end-title.png" align="center" width="200px"> >
