@@ -1,18 +1,15 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" alt="Hello! I'm Vinícius. Web Developer." src="./assets/images/title.png" /></a></p>
-<br><br>
-<p align="center"><img width="50%" alt="Hello! I'm Vinícius. Web Developer." src="./assets/svg/programmer3.svg" /></p>
+<h1 align=center>I'm Vinícius Canedo</h1>
+<h3 align=center>Web Developer</h3>
 
-<div align="center"><img src="https://visitcount.itsvg.in/api?id=ViniciusCanedo&icon=2&color=11"></img></div>
 <hr>
 
-
 <div align="center" >
-  <img src="./assets/images/skills.png" align="center" width="250px">
+  <h1>Skills</h1>
 </div>
-<br><br>
+<br>
 
 <div align="center">
-    <img src="./assets/images/front-end-title.png" align="center" width="200px">
+    < <img src="./assets/images/front-end-title.png" align="center" width="200px"> >
     <br><br>
     <div align="center">
       <img src="./assets/logos/front-end/html.svg" height="48">
@@ -28,7 +25,7 @@
 <br>
 
 <div align="center">
-    <img src="./assets/images/back-end-title.png" align="center" width="200">
+    < <img src="./assets/images/back-end-title.png" align="center" width="200"> >
     <br><br>
     <div align="center">
       <img src="./assets/logos/back-end/python.svg" height="48">
@@ -46,7 +43,7 @@
 <br>
 
 <div align="center">
-    <img src="./assets/images/devops-title.png" align="center" width="210">
+    < <img src="./assets/images/devops-title.png" align="center" width="200"> >
     <br><br>
     <div align="center">
       <img src="./assets/logos/devops/linux-tux.svg" height="48">
@@ -63,7 +60,7 @@
 <br>
 
 <div align="center">
-    <img src="./assets/images/softwares-title.png" align="center" width="220">
+    < <img src="./assets/images/softwares-title.png" align="center" width="210"> >
     <br><br>
     <div align="center">
       <img src="./assets/logos/softwares/git.svg" height="48">
@@ -85,7 +82,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCanedo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture align="center">
@@ -93,7 +89,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusCanedo/ViniciusCanedo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusCanedo/ViniciusCanedo/output/github-contribution-grid-snake.svg">
 </picture>
-
-<div align="center">
-  <img src="./assets/svg/camping-tent.svg" width="75%">
-</div>
