@@ -1,7 +1,4 @@
-<h1 align=center>I'm Vinícius Canedo</h1>
-<h3 align=center>Web Developer</h3>
-
-<hr>
+<h1 align=center>Vinícius Canedo - Web Developer</h1>
 
 <div align="center" >
   <h1>Skills</h1>
