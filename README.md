@@ -1,4 +1,9 @@
-<h1 align=center >Vinícius Canedo - Web Developer</h1>
+<h1 align=center >Vinícius Canedo - Web Developer <br>
+<img src="https://komarev.com/ghpvc/?username=ViniciusCanedo&color=blueviolet&style=flat-square">
+</h1>
+<div align=center >
+    
+</div>
 
 <div align="center">
     < <img src="./assets/images/front-end-title.png" align="center" width="200px"> >
