@@ -1,79 +1,43 @@
-<h1 align=center >Vinícius Canedo - Web Developer <br>
-<img src="https://komarev.com/ghpvc/?username=ViniciusCanedo&color=blueviolet&style=flat-square">
-</h1>
-<div align=center >
-    
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
+<br>
+<div align="left">
+    <h3>Seja bem-vido ao meu perfil! Eu sou Vinicius.</h3><br>
+    <p>
+    💻 Programador back-end sem front.  <br>
+    ☕ Viciado em café, mas com problemas cardíacos.  <br>
+    🤘 Heavy metal no fone, PHP no monitor.  🐘</p>
 </div>
 
+<div align="left">
+    <a href="https://linkedin.com/in/vinicius-canedo-19358a222">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://medium.com/@vinicius.canedo">
+        <img src="https://img.shields.io/badge/Medium-DDDDDD?style=flat-square&logo=medium&logoColor=black">
+    </a>
+    <br><br><br>
+</div>
+
+##
+
 <div align="center">
-    < <img src="./assets/images/front-end-title.png" align="center" width="200px"> >
-    <br><br>
-    <div align="center">
-      <img src="./assets/logos/front-end/html.svg" height="48">
-      <img src="./assets/logos/front-end/css.svg" height="48"> 
-      <img src="./assets/logos/front-end/javascript.svg" height="48">
-      <img src="./assets/logos/front-end/bootstrap.svg" height="48">
-      <img src="./assets/logos/front-end/jquery.svg" height="48">
-    </div>
-    ____________________
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82) 
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Inertia.JS](https://img.shields.io/badge/inertia.js-%239553E9.svg?style=for-the-badge&logo=inertia&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=databricks&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+
+![AWS](https://img.shields.io/badge/LINUX-%23323330.svg?style=for-the-badge&logo=linux&logoColor=23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+
 </div>
 
 <br>
 
 <div align="center">
-    < <img src="./assets/images/back-end-title.png" align="center" width="200"> >
-    <br><br>
-    <div align="center">
-      <img src="./assets/logos/back-end/python.svg" height="48">
-      <img src="./assets/logos/back-end/php.svg" height="48">
-      <img src="./assets/logos/back-end/mysql-dolphin.svg" height="48">
-      <img src="./assets/logos/back-end/sql-server.svg" height="48">
-      <img src="./assets/logos/back-end/bigquery.svg" height="48">
-    </div>
-    ____________________
+  <img height="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCanedo&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=pie"/>
 </div>
 
-<br>
-
-<div align="center">
-    < <img src="./assets/images/devops-title.png" align="center" width="200"> >
-    <br><br>
-    <div align="center">
-      <img src="./assets/logos/devops/linux-tux.svg" height="48">
-      <img src="./assets/logos/devops/docker.svg" height="48">
-      <img src="./assets/logos/devops/kubernets.svg" height="48">
-      <img src="./assets/logos/devops/nginx.svg" height="48">
-      <img src="./assets/logos/devops/apache.svg" height="48">
-    </div>
-    ____________________
-</div>
-
-<br>
-
-<div align="center">
-    < <img src="./assets/images/softwares-title.png" align="center" width="210"> >
-    <br><br>
-    <div align="center">
-      <img src="./assets/logos/softwares/git.svg" height="48">
-      <img src="./assets/logos/softwares/github1.svg" height="48">
-      <img src="./assets/logos/softwares/figma.svg" height="48">
-      <img src="./assets/logos/softwares/photoshop.svg" height="48"> 
-      <img src="./assets/logos/softwares/illustrator.svg" height="48">
-      <img src="./assets/logos/softwares/coreldraw.svg" height="48">
-      <img src="./assets/logos/softwares/excel.svg" height="48">
-    </div>
-    ____________________
-</div>
-
-<br><br>
-
-<div align="center">
-  <a href="https://github.com/ViniciusCanedo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCanedo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCanedo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusCanedo/ViniciusCanedo/output/github-contribution-grid-snake-dark.svg">
