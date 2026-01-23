@@ -25,40 +25,40 @@
 
 ####  ✒️ Front-end
 
-<img src="assets/images/logos/front-end/css3.png" alt="CSS3" width="80">
-<img src="assets/images/logos/front-end/html5.png" alt="HTML5" width="80">
-<img src="assets/images/logos/front-end/javascript.png" alt="JavaScript" width="80">
-<img src="assets/images/logos/front-end/jquery.png" alt="jQuery" width="80">
-<img src="assets/images/logos/front-end/tailwindcss.png" alt="TailwindCSS" width="80">
-<img src="assets/images/logos/front-end/bootstrap.png" alt="Bootstrap" width="80">
-<img src="assets/images/logos/front-end/vuejs.png" alt="Vue.js" width="80">
-<img src="assets/images/logos/front-end/nuxtjs.png" alt="Nuxt.js" width="80">
+<img src="assets/images/logos/css3.png" alt="CSS3" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/html5.png" alt="HTML5" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/javascript.png" alt="JavaScript" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/jquery.png" alt="jQuery" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/tailwindcss.png" alt="TailwindCSS" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/bootstrap.png" alt="Bootstrap" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/vuejs.png" alt="Vue.js" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/nuxtjs.png" alt="Nuxt.js" width="80" style="margin-right: 8px;">
 
 #### ⚙️ Back-end
 
-<img src="assets/images/logos/back-end/php.png" alt="PHP" width="80">
-<img src="assets/images/logos/back-end/laravel.png" alt="Laravel" width="80">
-<img src="assets/images/logos/back-end/python.png" alt="Python" width="80">
-<img src="assets/images/logos/back-end/rabbit-mq.png" alt="RabbitMQ" width="80">
-<img src="assets/images/logos/back-end/swagger.png" alt="Swagger" width="80">
+<img src="assets/images/logos/php.png" alt="PHP" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/laravel.png" alt="Laravel" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/python.png" alt="Python" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/rabbit-mq.png" alt="RabbitMQ" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/swagger.png" alt="Swagger" width="80" style="margin-right: 8px;">
 
 #### 💾 Databases
 
-<img src="assets/images/logos/databases/mariadb.png" alt="MariaDB" width="80">
-<img src="assets/images/logos/databases/mssql-server.png" alt="MicrosoftSQLServer" width="80">
-<img src="assets/images/logos/databases/mongodb.png" alt="MongoDB" width="80">
-<img src="assets/images/logos/databases/mysql.png" alt="MySQL" width="80">
-<img src="assets/images/logos/databases/postgresql.png" alt="PostgreSQL" width="80">
-<img src="assets/images/logos/databases/redis.png" alt="Redis" width="80">
-<img src="assets/images/logos/databases/sqlite.png" alt="SQLite" width="80">
+<img src="assets/images/logos/mariadb.png" alt="MariaDB" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/mssql-server.png" alt="MicrosoftSQLServer" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/mongodb.png" alt="MongoDB" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/mysql.png" alt="MySQL" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/postgresql.png" alt="PostgreSQL" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/redis.png" alt="Redis" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/sqlite.png" alt="SQLite" width="80" style="margin-right: 8px;">
 
 #### 🌐 Servidores
 
-<img src="assets/images/logos/servers/linux.png" alt="Linux" width="80">
-<img src="assets/images/logos/servers/git.png" alt="Git" width="80">
-<img src="assets/images/logos/servers/docker.png" alt="Docker" width="80">
-<img src="assets/images/logos/servers/gcloud.png" alt="GoogleCloud" width="80">
-<img src="assets/images/logos/servers/nginx.png" alt="Nginx" width="80">
+<img src="assets/images/logos/linux.png" alt="Linux" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/git.png" alt="Git" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/docker.png" alt="Docker" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/gcloud.png" alt="GoogleCloud" width="80" style="margin-right: 8px;">
+<img src="assets/images/logos/nginx.png" alt="Nginx" width="80" style="margin-right: 8px;">
 
 </div>
 
