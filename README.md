@@ -44,7 +44,6 @@
 
 #### 💾 Databases
 
-<img src="assets/images/logos/mariadb.png" alt="MariaDB" width="56">
 <img src="assets/images/logos/mssql-server.png" alt="MicrosoftSQLServer" width="56">
 <img src="assets/images/logos/mongodb.png" alt="MongoDB" width="56">
 <img src="assets/images/logos/mysql.png" alt="MySQL" width="56">
