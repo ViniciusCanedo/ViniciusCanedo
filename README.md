@@ -44,17 +44,17 @@
 
 #### 💾 Databases
 
+<img src="assets/images/logos/mysql.png" alt="MySQL" width="56">
 <img src="assets/images/logos/mssql-server.png" alt="MicrosoftSQLServer" width="56">
 <img src="assets/images/logos/mongodb.png" alt="MongoDB" width="56">
-<img src="assets/images/logos/mysql.png" alt="MySQL" width="56">
 <img src="assets/images/logos/postgresql.png" alt="PostgreSQL" width="56">
 <img src="assets/images/logos/redis.png" alt="Redis" width="56">
 <img src="assets/images/logos/sqlite.png" alt="SQLite" width="56">
 
 #### 🌐 Servidores
 
-<img src="assets/images/logos/linux.png" alt="Linux" width="56">
 <img src="assets/images/logos/git.png" alt="Git" width="56">
+<img src="assets/images/logos/linux.png" alt="Linux" width="56">
 <img src="assets/images/logos/docker.png" alt="Docker" width="56">
 <img src="assets/images/logos/gcloud.png" alt="GoogleCloud" width="56">
 <img src="assets/images/logos/nginx.png" alt="Nginx" width="56">
